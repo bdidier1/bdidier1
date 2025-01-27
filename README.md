@@ -25,5 +25,5 @@
 </div>
 
 <hr/>
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdidier1&show_icons=true&hide_border=true&theme=discord_old_blurple" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdidier1&show_icons=true&hide_border=true&theme=discord_old_blurple" width="49%" />
 <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdidier1&layout=compact&theme=discord_old_blurple" width="49%" />
