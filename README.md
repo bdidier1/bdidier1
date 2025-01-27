@@ -1,16 +1,29 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bdidier1.bdidier1" />
 
-<!--
-**bdidier1/bdidier1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <a href="mailto:baptiste.didier@proton.me">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+   <a href="https://discord.gg/">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+   <a href="https://github.com/bdidier1">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+<br/>
+ <hr/> 
 
-Here are some ideas to get you started:
+<div align="center">
+  <br/>
+    <img src="https://skillicons.dev/icons?i=css,html,pycharm,vscode,github,idea" />
+    <img src="https://skillicons.dev/icons?i=py,java" /><br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img alt="" src="https://raw.githubusercontent.com/bdidier1/bdidier1/output/github-contribution-grid-snake.svg" />
+</div>
+
+<hr/>
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdidier1&show_icons=true&hide_border=true&theme=discord_old_blurple" />
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdidier1&theme=discord_old_blurple" />
