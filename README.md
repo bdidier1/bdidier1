@@ -1,51 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%3E+baptiste+didier+_;%3E+BUT+Informatique+%C2%B7+3e+ann%C3%A9e+_;%3E+recherche+stage+%7C+janvier+2027+_" alt="Baptiste Didier" />
+# Baptiste Didier
 
-<img src="https://img.shields.io/badge/STAGE-JANVIER_2027_%C2%B7_12--16_SEMAINES-00FF41?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LOCATION-BELFORT,_FR-00FF41?style=flat-square&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=bdidier1&style=flat-square&color=00FF41&label=VISITS" />
+**Étudiant en 3<sup>e</sup> année de BUT Informatique** · parcours Réalisation d'applications · IUT Nord Franche-Comté (Belfort)
 
-</div>
+[Portfolio](https://bdidier1.github.io/Portfolio_BUT3/) · [LinkedIn](https://www.linkedin.com/in/baptiste-didier-706753382/) · [baptiste.didier@proton.me](mailto:baptiste.didier@proton.me)
 
-```console
-bdidier1@github:~$ whoami
-Baptiste Didier — 19 ans · Belfort (FR)
-BUT Informatique (2024-2027) — parcours Réalisation d'applications
-
-bdidier1@github:~$ ./status --now
-[OK] Recherche un stage de 12 à 16 semaines à partir de janvier 2027
-[OK] Dernier stage : EzDev — migration Python 3.11 → 3.13, CI/CD GitLab
-
-bdidier1@github:~$ █
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cs,html,css,mysql&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=vue,nodejs,flask,unity,git,gitlab,idea,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,mysql,postgres&theme=dark" alt="Python, Java, TypeScript, JavaScript, HTML, CSS, MySQL, PostgreSQL" /><br/>
+<img src="https://skillicons.dev/icons?i=vue,react,nodejs,flask,supabase,unity,git,linux&theme=dark" alt="Vue.js, React, Node.js, Flask, Supabase, Unity, Git, Linux" />
 
 </div>
 
-### `~/experience`
+## En ce moment
 
-- **Stagiaire chez EzDev** (04/2026 → 06/2026) — migration d'une application GED de Python 3.11 vers 3.13, outils d'analyse statique et de couverture (`LibCST`, `pytest`, `coverage.py`), automatisation des tests et CI/CD GitLab.
+- **Stage chez Actemium à partir de janvier 2027** : automatisation de tâches avec Power Apps et agents Copilot Studio.
+- **Après le BUT** : poursuivre en cybersécurité ou en intelligence artificielle, avec l'envie de créer ma propre entreprise. Ouvert à une proposition d'emploi.
 
-<div align="center">
+## Expérience
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdidier1&theme=github_dark" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bdidier1&theme=github_dark" />
+- **Stage chez EzDEV** (avril – juin 2026) : migration d'une application de gestion documentaire de Python 3.11 vers 3.13, outils d'analyse du code (LibCST, Ruff), tests et couverture (pytest, coverage.py), intégration continue GitLab.
 
-<br/>
+## Projets à voir
 
-<a href="mailto:baptiste.didier@proton.me">
-  <img src="https://img.shields.io/badge/%3E_mail-00FF41?style=flat-square&logo=protonmail&logoColor=0D1117&labelColor=0D1117" />
-</a>
-<a href="https://www.linkedin.com/in/baptiste-didier-706753382/">
-  <img src="https://img.shields.io/badge/%3E_linkedin-00FF41?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117" />
-</a>
-<a href="https://github.com/bdidier1">
-  <img src="https://img.shields.io/badge/%3E_github-00FF41?style=flat-square&logo=github&logoColor=0D1117&labelColor=0D1117" />
-</a>
+| Projet | En bref | Technologies |
+| :--- | :--- | :--- |
+| **ParkTracker** | Application mobile publiée sur l'App Store et Google Play | React Native, TypeScript, Supabase |
+| [GPExplorer](https://github.com/bdidier1/GPExplorer) | Site de gestion d'un événement, en équipe de 5 | Vue 3, Express, PostgreSQL |
+| [SAE2.04](https://github.com/bdidier1/SAE2.04) | Boutique en ligne de câbles | Flask, MySQL |
+| [PuissanceX](https://github.com/bdidier1/PuissanceX) | Puissance 4 personnalisable avec deux IA | Java, JUnit 5 |
+| [Unity_FPS](https://github.com/bdidier1/Unity_FPS) | Jeu de tir à la première personne, en binôme | Unity, C# |
+| [mediakit](https://github.com/bdidier1/mediakit) | Media kit de ma chaîne Clip2EP | HTML, CSS, JavaScript |
 
-</div>
+Le détail de chaque projet, avec captures et rôle tenu, est sur le [portfolio](https://bdidier1.github.io/Portfolio_BUT3/).
