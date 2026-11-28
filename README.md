@@ -24,11 +24,12 @@
 
 | Projet | En bref | Technologies |
 | :--- | :--- | :--- |
-| **ParkTracker** | Application mobile publiée sur l'App Store et Google Play | React Native, TypeScript, Supabase |
-| [GPExplorer](https://github.com/bdidier1/GPExplorer) | Site de gestion d'un événement, en équipe de 5 | Vue 3, Express, PostgreSQL |
-| [SAE2.04](https://github.com/bdidier1/SAE2.04) | Boutique en ligne de câbles | Flask, MySQL |
-| [PuissanceX](https://github.com/bdidier1/PuissanceX) | Puissance 4 personnalisable avec deux IA | Java, JUnit 5 |
-| [Unity_FPS](https://github.com/bdidier1/Unity_FPS) | Jeu de tir à la première personne, en binôme | Unity, C# |
-| [mediakit](https://github.com/bdidier1/mediakit) | Media kit de ma chaîne Clip2EP | HTML, CSS, JavaScript |
+| [**ParkTracker**](https://parktracker.fr/) | Application mobile publiée sur l'App Store et Google Play | React Native, TypeScript, Supabase |
+| [**CutLocal**](https://github.com/bdidier1/CapcutLocal) | Éditeur vidéo local dans le navigateur, export 4K 60 i/s | JavaScript, WebGL2, WebCodecs, Node.js |
+| [**AUTO YTB**](https://github.com/bdidier1/AUTO_YTB) | Publication automatisée de vidéos sur YouTube | Python, FastAPI, API YouTube, OAuth 2.0 |
+| [**GP Explorer**](https://github.com/bdidier1/GPExplorer) | Site de gestion d'un événement, en équipe de 5 | Vue 3, Express, PostgreSQL |
+| [**PuissanceX**](https://github.com/bdidier1/PuissanceX) | Puissance 4 personnalisable avec deux IA, chef d'équipe | Java, JUnit 5 |
+| [**Boutique de câbles**](https://github.com/bdidier1/SAE2.04) | Boutique en ligne avec espace administrateur | Flask, MySQL |
+| [**Pauvocodeur**](https://github.com/bdidier1/SAE1.01-02) | Transformation de fichiers audio | Java |
 
 Le détail de chaque projet, avec captures et rôle tenu, est sur le [portfolio](https://bdidier1.github.io/Portfolio_BUT3/).
